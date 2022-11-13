@@ -1,0 +1,8 @@
+body {
+  background: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80") no-repeat fixed;
+}
+
+.btn {
+  background-color: #659ea2;
+  border-color: aqua;
+}
